@@ -17,7 +17,7 @@
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre><code class="language-bash">
-git clone https://github.com/.../Zannonny.git
+git clone https://github.com/zarga33d/Zannonny.git
 </code></pre>
 
 <h3>2️⃣ Add a Shortcut Alias</h3>
